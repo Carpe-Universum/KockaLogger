@@ -1,6 +1,6 @@
 {
     "client": {
-        "server": "dc-multiverse.fandom.com",
+        "server": "dc-multiverse.fandom.com", 
         "port": 9999,
         "nick": "MyKockaLogger",
         "realname": "The time has come.",
