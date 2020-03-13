@@ -1,0 +1,30 @@
+{
+    "client": {
+        "server": "dc-multiverse.fandom.com",
+        "port": 9999,
+        "nick": "MyKockaLogger",
+        "realname": "The time has come.",
+        "channels": {
+            "rc": "#activity",
+            "newusers": "#newusers",
+            "discussions": "#discuss"
+        },
+        "users": {
+            "rc": "Tim",
+            "newusers": "Daniel",
+            "discussions": "Bert"
+        }
+    },
+    "modules": {
+        "logger": [
+            {
+                "wiki": "community",
+                "transport": {
+                    "type": "discord",
+                    "id": "687859745192935459",
+                    "token": "A8CpzJ4oPwrfK8G9UlKrAK2RGCsna_fmkomVmemHJH_zwGxixwOY4O5rFJG_POGy6uUj"
+                }
+            }
+        ]
+    }
+}
