@@ -1,37 +1,25 @@
 {
-    "name": "kocka-logger",
-    "version": "1.1.9",
-    "description": "The time has come.",
-    "keywords": [
-        "wikia",
-        "fandom",
-        "countervandalism",
-        "logger"
-    ],
-    "license": "GPL-3.0-or-later",
-    "author": {
-        "name": "KockaAdmiralac",
-        "email": "1405223@gmail.com",
-        "url": "https://github.com/KockaAdmiralac"
-    },
-    "contributors": [],
-    "main": "main.js",
-    "scripts": {
-        "start": "node main.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/KockaAdmiralac/KockaLogger.git"
-    },
-    "dependencies": {
-        "discord.js": ">=11.5.1",
-        "irc-upd": ">=0.10.0",
-        "mysql2": ">=1.6.5",
-        "redis": ">=2.8.0",
-        "request": ">=2.88.0",
-        "request-promise-native": ">=1.0.7"
-    },
-    "devDependencies": {
-        "eslint": ">=6.0.1"
-    }
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.0",
+
+  "main": "main.js",
+
+  "scripts": {
+
+    "start": "node main.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
 }
