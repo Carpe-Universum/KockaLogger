@@ -5,7 +5,7 @@
         "nick": "MyKockaLogger",
         "realname": "The time has come.",
         "channels": {
-            "rc": "#activity",
+            "rc": "#general",
             "newusers": "#newusers",
             "discussions": "#discuss"
         },
@@ -18,11 +18,11 @@
     "modules": {
         "logger": [
             {
-                "wiki": "community",
+                "wiki": "dc-multiverse",
                 "transport": {
                     "type": "discord",
-                    "id": "687859745192935459",
-                    "token": "A8CpzJ4oPwrfK8G9UlKrAK2RGCsna_fmkomVmemHJH_zwGxixwOY4O5rFJG_POGy6uUj"
+                    "id": "712676233950920745",
+                    "token": "NzEyNjc2MjMzOTUwOTIwNzQ1.XsVBsA.aDkGUeWLzLB0Yd_R7jP-tBAJKT0"
                 }
             }
         ]
